@@ -1,0 +1,5 @@
+express
+body-parser
+https
+dotenv
+nodemailer
